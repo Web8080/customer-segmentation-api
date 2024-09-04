@@ -14,7 +14,7 @@ This repository contains a Flask API that performs customer segmentation using t
   
 ## Setup Instructions
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/flask-api-deployment.git
@@ -22,7 +22,7 @@ cd flask-api-deployment
 
 
 
-#### 2. Install Dependencies
+ 2. Install Dependencies
 
 Make sure Python 3.x is installed. Install the required dependencies by running:
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 
 
-### 3. Run the Flask App Locally
+ 3. Run the Flask App Locally
 
 To run the Flask app locally, use the following command:
 
@@ -43,7 +43,7 @@ python app.py
 The app will be accessible at http://127.0.0.1:5000/.
 
 
-### 4. Deploy to AWS Elastic Beanstalk
+ 4. Deploy to AWS Elastic Beanstalk
 
     Install AWS CLI and Elastic Beanstalk CLI:
         Install the AWS CLI.
