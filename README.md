@@ -22,7 +22,7 @@ cd flask-api-deployment
 
 
 
-### 2. Install Dependencies
+#### 2. Install Dependencies
 
 Make sure Python 3.x is installed. Install the required dependencies by running:
 
