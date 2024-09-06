@@ -97,5 +97,5 @@ print(f'Predicted Cluster: {response.json()["cluster"]}')
     app.py: The main Flask application.
     requirements.txt: List of dependencies required to run the Flask app.
     Procfile: Instructions for Elastic Beanstalk to run the app.
-    kmeans_model.pkl: The trained K-Means model (not included in this repo, must be generated).
-    scaler.pkl: The data scaler (not included in this repo, must be generated).
+    kmeans_model.pkl: The trained K-Means model 
+    scaler.pkl: The data scaler
